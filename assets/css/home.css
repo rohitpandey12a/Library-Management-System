@@ -1,0 +1,42 @@
+
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 80%;
+  position: relative;
+  margin: auto;
+}
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: auto;
+  text-align: center;
+}
+
+.div1 {
+  width: 80%;
+  height: auto;
+  border: 2px solid purple;
+  box-shadow: 5px 10px;
+}
+
+.div2 {
+  width: 80%;
+  height: auto;
+  border: 2px solid purple;
+  box-shadow: 5px 10px;
+}
+
+.div3 {
+  width: 80%;
+  height: 50%;
+  border: 2px solid purple;
+  	box-shadow: 5px 10px;
+}
